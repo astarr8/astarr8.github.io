@@ -14,7 +14,7 @@ body {
 	background-image: url("grid.png");
 }
 #logo {
-	text-align: middle;
-	width: 25%;
+	text-align: right;
+	width: 20%;
 	display: inline-block;
 }
